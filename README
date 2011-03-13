@@ -1,1 +1,11 @@
-This file was created by JetBrains PhpStorm 2.0 for binding GitHub repository
+Jarx makes running Java programs on Windows easy.
+
+You can use it to start Java programs by just double clicking a .jar file
+or start a Java program by double clicking a configured .exe file.
+
+The source shows how to call the JVM from C source code and even run Java commands from C.
+
+Website: http://www.bitstorm.org/jarx/
+
+This software is released under the MIT license.
+
