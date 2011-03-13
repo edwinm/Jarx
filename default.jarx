@@ -1,0 +1,4 @@
+jar-file: GameOfLife.jar
+class-path: GameOfLife.jar
+main-class: org.bitstorm.gameoflife.StandaloneGameOfLife
+version-min: 1.4

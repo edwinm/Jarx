@@ -1,0 +1,3 @@
+jar-file: JarTest.jar
+main-class: org.bitstorm.jartest.JarTest
+version-min: 1.1
