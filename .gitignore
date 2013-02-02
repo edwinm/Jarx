@@ -1,0 +1,12 @@
+.idea
+Release/*
+Debug/*
+.DS_Store
+
+Release/JarTest.jarx
+
+Debug/default.jarx
+
+*.dsw
+
+*.plg
